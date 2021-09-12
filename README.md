@@ -6,4 +6,10 @@ This is an example of a simple Ethereum wallet that runs on web3 using the valid
 
 ### Access
 
-You can test the wallet (if you have MetaMask) [here](https://stark-temple-39959.herokuapp.com/) or using https://stark-temple-39959.herokuapp.com/. 
+To run the wallet, run the following after installing:
+```
+npm install
+npm run start 
+```
+
+You can also test the wallet without downloading the source code (if you have MetaMask) [here](https://stark-temple-39959.herokuapp.com/) or using https://stark-temple-39959.herokuapp.com/. 
